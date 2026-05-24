@@ -88,7 +88,7 @@
 ## Project Structure
 
 ```
-ORU-HACKATHON/
+IPL Analysis/
 ├── README.md                    ← You are here
 ├── Phase_1/
 │   ├── IPL_Analysis.ipynb       ← Phase_1 analysis notebook
