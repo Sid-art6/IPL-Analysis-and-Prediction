@@ -2,7 +2,7 @@
 
 **From Descriptive Insights to Predictive Strategy: A Two-Phase Analysis of 18 Seasons of IPL Cricket**
 
-🚀 **[Live Dashboard →](https://ipl-analysis-and-prediction-yusttzsxkgccxppkg49sx4.streamlit.app/)**
+🚀 **[Live Dashboard →](https://ipl-analysis-and-prediction-rrk8tbb6c3t6zn9v3ygk9k.streamlit.app/)**
 
 ---
 
@@ -71,7 +71,7 @@
 
 📁 [View Phase_2 →](https://github.com/Sid-art6/IPL-Analysis-and-Prediction/tree/main/Phase_2)
 
-🚀 [Try the Live Dashboard →](https://ipl-analysis-and-prediction-yusttzsxkgccxppkg49sx4.streamlit.app/)
+🚀 [Try the Live Dashboard →](https://ipl-analysis-and-prediction-rrk8tbb6c3t6zn9v3ygk9k.streamlit.app/)
 
 ---
 
