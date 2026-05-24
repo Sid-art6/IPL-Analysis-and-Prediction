@@ -1,0 +1,6 @@
+*.csv
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+Phase_1/
+Phase_2/
